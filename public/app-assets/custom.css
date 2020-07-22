@@ -1,0 +1,67 @@
+.telkomsel{
+    background-size: 100px;
+    background-image: url('https://2.bp.blogspot.com/-zoz4My8uhK8/UDBHdFrCH0I/AAAAAAAAAK4/nGwPkAkXreE/s1600/logo+telkomsel.png');
+    background-position-y: center;
+    background-position-x:  right;
+    background-repeat: no-repeat;
+}
+.indosat{
+    background-size: 50px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/id/thumb/c/c0/Indosat_Ooredoo_logo.svg/1200px-Indosat_Ooredoo_logo.svg.png');
+    background-position-y: center;
+    background-position-x:  right;
+    background-repeat: no-repeat;
+}
+.xl{
+    background-size: 30px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/id/thumb/5/55/XL_logo_2016.svg/750px-XL_logo_2016.svg.png');
+    background-position-y: center;
+    background-position-x:  right;
+    background-repeat: no-repeat;
+}
+.axis{
+    background-size: 30px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Axis_logo_2015.svg/1200px-Axis_logo_2015.svg.png');
+    background-position-y: center;
+    background-position-x:  right;
+    background-repeat: no-repeat;
+}
+.three{
+    background-size: 30px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/id/thumb/6/68/3-brand.svg/1200px-3-brand.svg.png');
+    background-position-y: center;
+    background-position-x:  right;
+    background-repeat: no-repeat;
+}
+.smartfren{
+    background-size: 50px;
+    background-image: url('https://2.bp.blogspot.com/-XRw3QGNrpLw/XApJGcaQ90I/AAAAAAAAQs0/KG0ZBJaCeY81So_DyrdcH3R7wg9MvPW2wCLcBGAs/s1600/Smartfren.png');
+    background-position-y: center;
+    background-position-x:  right;
+    background-repeat: no-repeat;
+}
+.ceria{
+    background-size: 50px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Ceria.svg/1200px-Ceria.svg.png');
+    background-position-y: center;
+    background-position-x:  right;
+    background-repeat: no-repeat;
+
+}
+.service{
+    padding: 10px;
+    border: 1px solid #7367F0;
+    border-radius: 5px;
+}
+.service .nominal{
+    color: #000;
+}
+.service .subnominal{
+    color: #000;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.service .harga{
+    display: flex;
+    margin-left: 30px;
+}
